@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/61/trunk/Test_Suites
+END
+test_data_sqrt_bigint.txt_out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/trunk/Test_Suites/test_data_sqrt_bigint.txt_out.txt
+END
+bigint_test_data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/56/trunk/Test_Suites/bigint_test_data.txt
+END
+bigint_bigreal_divide_test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/58/trunk/Test_Suites/bigint_bigreal_divide_test.txt
+END
+bigint_bigreal_divide_test_out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/trunk/Test_Suites/bigint_bigreal_divide_test_out.txt
+END
+bigreal_add_test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/49/trunk/Test_Suites/bigreal_add_test.txt
+END
+test_data_sqrt_bigint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/61/trunk/Test_Suites/test_data_sqrt_bigint.txt
+END

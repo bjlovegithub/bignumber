@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/78/trunk
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/55/trunk/utility.h
+END
+bigreal.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/65/trunk/bigreal.h
+END
+test_bigint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/39/trunk/test_bigint.cpp
+END
+func.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/76/trunk/func.cpp
+END
+bigint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/78/trunk/bigint.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/76/trunk/Makefile
+END
+number.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/55/trunk/number.h
+END
+bignumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/12/trunk/bignumber.h
+END
+func.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/77/trunk/func.h
+END
+bigint.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/78/trunk/bigint.h
+END
+utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/37/trunk/utility.cpp
+END
+test_bigreal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/77/trunk/test_bigreal.cpp
+END
+bigreal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/78/trunk/bigreal.cpp
+END
